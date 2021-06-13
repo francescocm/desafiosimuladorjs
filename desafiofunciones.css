@@ -1,0 +1,21 @@
+.cont {
+    border: 1px solid black;
+    padding: 15px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 30px;
+    background: rgb(250, 153, 62);
+}
+
+.subcont {
+    width: 45%;
+    text-align: center;
+}
+
+.subcont .button {
+    width: 24%;
+    color: white;
+    background-color: rgb(71, 145, 255);
+    height: 5%;
+    font-size: 16px;
+}
